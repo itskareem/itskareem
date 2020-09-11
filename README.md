@@ -1,7 +1,7 @@
-[twitter]: https://www.twitter.com/adi1090x
-[reddit]: https://www.reddit.com/user/adi1090x
-[instagram]: https://www.instagram.com/aditya__shakya
-[gmail]: mailto:adi1090x@gmail.com
+[twitter]: https://www.twitter.com/xivaphro
+[reddit]: https://www.reddit.com/user/xivaphro
+[instagram]: https://www.instagram.com/xivapros
+[gmail]: mailto:d.abdelkarim1404@gmail.com
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
 
 ### Connect with me:
