@@ -8,4 +8,4 @@
 ### Connect with me:
 
 [<img align="left" alt="xivaphro | Twitter" width="24px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="xivaphro | Reddit" width="24px" src="https://www.flaticon.com/free-icon/reddit_2111589?term=reddit&page=1&position=1" />][reddit]
+[<img align="left" alt="xivaphro | Reddit" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111589.svg" />][reddit]
