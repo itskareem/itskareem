@@ -1,1 +1,7 @@
-![#f03c15]<a href="" style="color:#2e2e9e;">gygyg</a>
+```css
+   #hh {
+      color: #ff2255;
+    }
+```
+
+<a href="" id="hh" style="color:#2e2e9e;">gygyg</a>
