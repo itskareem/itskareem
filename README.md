@@ -1,8 +1,8 @@
-[twitter]: https://www.twitter.com/xivaphro
+[twitter]: https://www.twitter.com/itskarimlol
 [reddit]: https://www.reddit.com/user/xivaphro
-[instagram]: https://www.instagram.com/xivapros
-[facebook]: https://www.facebook.com/xivapros
-[gmail]: mailto:d.abdelkarim1404@gmail.com
+[instagram]: https://www.instagram.com/itskarimlol
+[facebook]: https://www.facebook.com/itskarimlol
+[gmail]: mailto:d.abdelkarim@outlook.com
 ### Connect with me:
 
 [<img align="left" alt="xivaphro | Twitter" width="24px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
