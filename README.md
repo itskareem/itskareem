@@ -1,7 +1,6 @@
-[Twitter]: https://www.twitter.com/itskarimlol
-[Reddit]: https://www.reddit.com/user/xivaphro
-[Instagram]: https://www.instagram.com/itskarimlol
-[Outlook]: mailto:d.abdelkarim@outlook.com
+[Twitter]: https://www.twitter.com/itskareem
+[Instagram]: https://www.instagram.com/its.karee_
+[Outlook]: mailto:
 ### Connect with me:
 
 [<img align="left" alt="karim | Twitter" width="24px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][Twitter]
